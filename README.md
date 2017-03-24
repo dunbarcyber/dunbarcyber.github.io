@@ -1,6 +1,6 @@
 # Dunbar Cybersecurity
 
-We are the cybersecurity division of Dunbar Armored. We build tools to manage our MSSP platform and contribute these projects for either open or free use.
+We are the cybersecurity division of [Dunbar Armored](http://www.dunbararmored.com/security-solutions/cybersecurity). We build tools to manage our MSSP platform and contribute these projects for either open or free use.
 
 Our current projects include:
 
