@@ -4,5 +4,5 @@ We are the cybersecurity division of Dunbar Armored. We build tools to manage ou
 
 Our current projects include:
 
-* [Cyphon](https://dunbarcybersecurity.io/cyphon/): an incident management and response platform
-* [Cyclops](https://dunbarcybersecurity.io/cyclops/): SPA that displays real-time data from an instance of Cyphon
+* [Cyphon](https://dunbarcyber.github.io/cyphon/): an incident management and response platform
+* [Cyclops](https://dunbarcyber.github.io/cyclops/): SPA that displays real-time data from an instance of Cyphon
